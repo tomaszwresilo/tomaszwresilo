@@ -6,7 +6,7 @@
 
 
 
-<img src="[pic_trulli.jpg](https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg)" alt="babel">
+<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel">
 
 
 🔥 My GitHub Stats:
