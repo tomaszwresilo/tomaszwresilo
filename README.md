@@ -1,7 +1,7 @@
 <h1> Hi there 👋 </h1>
 
 
-My languages 👨‍💻 and Tools 🛠️:
+<h2> My languages 👨‍💻 and Tools 🛠️: </h2>
 
 
 <div>
@@ -16,11 +16,12 @@ My languages 👨‍💻 and Tools 🛠️:
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40">
-  
 </div>
 
+<h2> During studying 📖: </h2>
 
-🔥 My GitHub Stats:
+
+<h3> My GitHub Stats 🔥: <h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tomaszwresilo&theme=dark)](https://git.io/streak-stats)
 
