@@ -1,10 +1,8 @@
 <h1> Hi there 👋 </h1>
-
-<h2> About me 👨: </h2>
+I'm a passionate frontend developer with a knack for crafting delightful user experiences. My GitHub repository is a showcase of my dedication to creating visually stunning and responsive web interfaces.
+<h2> Here's what you can expect from my profile 👨: </h2>
 <div>
-<p>  I'm a passionate frontend developer with a knack for crafting delightful user experiences. My GitHub repository is a showcase of my dedication to creating visually stunning and responsive web interfaces.
 
-Here's what you can expect from my profile:
 
 ✨ Frontend Development: I live and breathe frontend technologies. From HTML and CSS to JavaScript and beyond, I love working with these tools to bring life to captivating web designs.
 
@@ -15,7 +13,7 @@ Here's what you can expect from my profile:
 🌟 Collaborative Mindset: I thrive in collaborative environments and believe in the power of teamwork. I enjoy working with cross-functional teams to bring ideas to life and create impactful solutions.
 
 📚 Continuous Learning: The world of frontend development is ever-evolving, and I embrace the opportunity to learn and grow. I constantly expand my knowledge through online resources, tutorials, and engaging in the developer community.
-  </p>
+
 </div>
 
 <h2> My languages 👨‍💻: </h2>
