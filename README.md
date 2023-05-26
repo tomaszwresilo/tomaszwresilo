@@ -1,6 +1,6 @@
 <h1> Hi there 👋 </h1>
 
-Profile 👨: </h2>
+<h2> Profile 👨: </h2>
 <div>
   
 🚀 I am passionate about frontend with a knack for creating stunning user experiences. I live and breathe these technologies.
