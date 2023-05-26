@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 
+🛠️ My languages and Tools:
+
+
+
+
+
+
+🔥 My GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=tomaszwresilo&theme=dark)](https://git.io/streak-stats)
 
 
