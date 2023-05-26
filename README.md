@@ -20,6 +20,11 @@
 
 <h2> During studying 📖: </h2>
 
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="npm" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="vscode" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="vscode" width="40" height="40">
+</div>
 
 <h3> My GitHub Stats 🔥: <h3>
 
