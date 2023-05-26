@@ -3,11 +3,10 @@
 
 🛠️ My languages and Tools:
 
-https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg
 
 
 
-
+<img src="[pic_trulli.jpg](https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg)" alt="babel">
 
 
 🔥 My GitHub Stats:
