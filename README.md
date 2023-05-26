@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-🛠️ My languages and Tools:
 
 
 
