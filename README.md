@@ -4,10 +4,9 @@
 🛠️ My languages and Tools:
 
 
-
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel">
-
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40">
+</div>
 
 🔥 My GitHub Stats:
 
