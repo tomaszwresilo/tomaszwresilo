@@ -38,7 +38,6 @@
 </div>
 
 <h3> My GitHub Stats 🔥: <h3>
-<div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=tomaszwresilo&theme=dark)](https://git.io/streak-stats)
-  </div>
+  
 
