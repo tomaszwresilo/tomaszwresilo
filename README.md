@@ -8,7 +8,7 @@ Here's what you can expect from my profile:
 
 ✨ Frontend Development: I live and breathe frontend technologies. From HTML and CSS to JavaScript and beyond, I love working with these tools to bring life to captivating web designs.
 
-📐 Responsive Web Design: I understand the importance of responsive layouts in today's multi-device world. I ensure that my projects are fully responsive and provide seamless user experiences across various screen sizes and resolutions.
+📐 Responsive Web Design: I understand the importance of responsive layouts in today's multi-device world. I ensure that my projects are fully responsive and provide seamless user experiences across various screen sizes and resolutions. At the same time, I care about the accessibility of websites and their semantics.
 
 🛠️ Modern Tools and Frameworks: I keep myself updated with the latest trends and technologies in the frontend ecosystem. I enjoy exploring and utilizing tools  to build scalable and efficient web applications.
 
