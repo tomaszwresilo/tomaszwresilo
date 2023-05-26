@@ -1,12 +1,16 @@
 <h1> Hi there 👋 </h1>
 
 
-🛠️ My languages and Tools:
+My languages 👨‍💻 and Tools 🛠️:
 
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40">
+<img src=" https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="babel" width="40" height="40">
+<img src="https://parceljs.org/assets/og.png" alt="babel" width="40" height="40">
+  
 </div>
+
 
 🔥 My GitHub Stats:
 
