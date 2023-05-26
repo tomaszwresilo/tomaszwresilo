@@ -11,6 +11,7 @@
 </div>
 
 <h2> Tools 🛠️: </h2>
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40">
@@ -18,10 +19,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40">
 <img src="https://parceljs.org/assets/og.png" alt="babel" width="40" height="40">
-
+</div>
 <h2> Libraries 🚀: </h2>
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40">
-
+</div>
 <h2> During studying 📖: </h2>
 
 <div>
