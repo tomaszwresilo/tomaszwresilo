@@ -1,5 +1,5 @@
 <h1> Hi there 👋 </h1>
-
+![](https://komarev.com/ghpvc/?username=tomaszwresilo&color=grey)
 <h2> Profile 👨: </h2>
 <div>
   
