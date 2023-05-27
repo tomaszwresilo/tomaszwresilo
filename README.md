@@ -3,8 +3,6 @@
 <h2> Profile 👨: </h2>
 <div>
   
-🚀 I am passionate about frontend with a knack for creating stunning user experiences. I live and breathe these technologies.
-
 📐 Responsive Web Design: I understand the importance of responsive layouts in today's multi-device world. I ensure that my projects are fully responsive and provide seamless user experiences across various screen sizes and resolutions. At the same time, I care about the accessibility of websites and their semantics.
 
 🛠️ Modern Tools and Frameworks: I keep myself updated with the latest trends and technologies in the frontend ecosystem. I enjoy exploring and utilizing tools  to build scalable and efficient web applications.
