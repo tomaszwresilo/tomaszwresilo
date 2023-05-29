@@ -1,5 +1,5 @@
 <h1> Hi there 👋 </h1>
-<h2> Profile 👨: </h2>
+<h2> My Profile 👨: </h2>
 <div>
   
 📐 Responsive Web Design: I understand the importance of responsive layouts in today's multi-device world. I ensure that my projects are fully responsive and provide seamless user experiences across various screen sizes and resolutions. At the same time, I care about the accessibility of websites and their semantics.
