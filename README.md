@@ -31,7 +31,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">
 <img src="https://parceljs.org/assets/og.png" alt="babel" width="40" height="40">
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40">
+</div>
 </div>
 <h2> Libraries 🚀: </h2>
 <div>
